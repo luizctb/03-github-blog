@@ -7,7 +7,7 @@ export function Header() {
   return (
     <HeaderContainer>
       <img src={headerLeft} alt="" />
-      <img src={logo} alt="André Chamis" />
+      <img src={logo} alt="Luiz Tomé" />
       <img src={headerRight} alt="" />
     </HeaderContainer>
   )
