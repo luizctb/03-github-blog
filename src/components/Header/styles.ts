@@ -14,9 +14,8 @@ export const HeaderContainer = styled.header`
   z-index: -1;
 
   img:nth-child(2) {
-    width: 148px;
+    width: 138px;
     height: 98px;
-
     position: absolute;
     top: 35%;
     left: 50%;

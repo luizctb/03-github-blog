@@ -8,7 +8,7 @@ export const LayoutContainer = styled.div`
 `
 
 export const BodyContainer = styled.div`
-  max-width: 56rem;
+  max-width: 55rem;
   padding: 0 1rem;
 
   margin: 0 auto;
